@@ -4,4 +4,5 @@ version = "0.1.0"
 authors = ["Salvador Guzman <guzmansalv@gmail.com>"]
 
 [dependencies]
+stdweb = "0.4.2"
 yew = { git = "https://github.com/DenisKolodin/yew", features = ["toml", "yaml", "msgpack", "cbor"] }
